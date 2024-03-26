@@ -1,6 +1,7 @@
 The agenda of this project is to implement modular coding and MLOPS.
-*Tools : MLFLOW for tracking 
-* Dagshub (DagsHub provides a free remote MLflow Tracking server for experiment tracking and model registry with every repository)
+* Tools :
+  - MLFLOW for tracking 
+  - Dagshub (DagsHub provides a free remote MLflow Tracking server for experiment tracking and model registry with every repository)
 
 Steps: 
 * create virtual environment "conda create -p venv python=3.9 -y"
