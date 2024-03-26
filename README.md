@@ -11,4 +11,20 @@ Steps:
 * write setup.py for custom packages
 * install all the libraries using 'pip install -r requirements.txt
 * created logging  in utils 
-* some utils function in common.py
+* some utils function in common.py<br>
+
+Pipeline:
+* Data Ingestion
+* Data Validation
+* Data transformation
+* Model Trainer
+* Model Evaluation
+* Model Prediction <br>
+
+Basic flow of writing code in pipeline
+* config
+* entity
+* configuration
+* component
+* pipeline
+
