@@ -1,4 +1,4 @@
-The agenda of this project is to implement modular coding and MLOPS.
+The agenda of this project is to predict the quality of wine using mlops.
 * Tools :
   - MLFLOW for tracking 
   - Dagshub (DagsHub provides a free remote MLflow Tracking server for experiment tracking and model registry with every repository)
